@@ -1,0 +1,7 @@
+pyyaml
+numpy 
+opencv-python
+submitit
+torch
+torchvision
+python-dotenv

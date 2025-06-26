@@ -1,3 +1,9 @@
 *.swp
 *.swo
 __pycache__
+jvenv
+data
+logs
+*.ipynb
+.env
+*.sh
